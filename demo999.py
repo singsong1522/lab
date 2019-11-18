@@ -1,3 +1,3 @@
-print("please type someggg  999999999  ing:")
-print("please type someggg  11:23")
+print("please type someing:")
+print("11:23")
 
