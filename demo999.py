@@ -1,3 +1,3 @@
 print("please type someing:")
-print("11:23")
+print("108/11/20 11:23")
 

@@ -1,5 +1,5 @@
 # Python course
-## Last modified:17-Nov-2019
+## Last modified:20-Nov-2019
 
 ### Install stone
 
